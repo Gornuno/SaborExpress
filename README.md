@@ -29,4 +29,4 @@ Sinta-se à vontade para contribuir com novas funcionalidades, correções de bu
 
 ## Licença
 
-Este projeto está licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a MIT License.
