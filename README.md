@@ -26,7 +26,3 @@ Este é um projeto em Python para listagem, cadastro e gerenciamento de informa�
 ## Contribuição
 
 Sinta-se à vontade para contribuir com novas funcionalidades, correções de bugs ou melhorias no código. Abra uma issue ou envie um pull request com suas sugestões.
-
-## Licença
-
-Este projeto está licenciado sob a MIT License.
